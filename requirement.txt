@@ -1,0 +1,6 @@
+flask
+langchain
+langchain-google-genai
+python-dotenv
+langchain_google_community
+markdown2
