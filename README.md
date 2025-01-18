@@ -1,6 +1,6 @@
-# VoiceTextGPT
+# Chatbot
 
-VoiceTextGPT is a web application designed to provide a seamless interaction experience with a large language model (LLM) using both voice and text. Built with HTML, CSS, JavaScript, and Flask, this application uses the Gemini LLM API to fetch data and provide intelligent responses.
+Chatbot is a web application designed to provide a seamless interaction experience with a large language model (LLM) using both voice and text. Built with HTML, CSS, JavaScript, and Flask, this application uses the Gemini LLM API to fetch data and provide intelligent responses.
 
 ## Features
 
